@@ -1,0 +1,9 @@
+Intermediate/
+Build/
+Binaries/
+Saved/
+DerivedDataCache/
+CarpetAR.xcworkspace/contents.xcworkspacedata
+CarpetAR.sln
+.vs/
+CarpetAR.xcworkspace/xcuserdata/

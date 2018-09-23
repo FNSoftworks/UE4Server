@@ -1,0 +1,99 @@
+[30-Aug-2018 12:02:35 Europe/Istanbul] PHP Warning:  mysqli::mysqli(): (HY000/2002): Connection refused in /home/fullplug/public_html/MultiServer/GetHostRequest.php on line 3
+[30-Aug-2018 12:05:12 Europe/Istanbul] PHP Warning:  mysqli::mysqli(): (HY000/2002): Connection refused in /home/fullplug/public_html/MultiServer/GetHostRequest.php on line 3
+[30-Aug-2018 12:05:13 Europe/Istanbul] PHP Warning:  mysqli::mysqli(): (HY000/2002): Connection refused in /home/fullplug/public_html/MultiServer/GetHostRequest.php on line 3
+[30-Aug-2018 12:05:14 Europe/Istanbul] PHP Warning:  mysqli::mysqli(): (HY000/2002): Connection refused in /home/fullplug/public_html/MultiServer/GetHostRequest.php on line 3
+[30-Aug-2018 12:05:15 Europe/Istanbul] PHP Warning:  mysqli::mysqli(): (HY000/2002): Connection refused in /home/fullplug/public_html/MultiServer/GetHostRequest.php on line 3
+[30-Aug-2018 12:05:15 Europe/Istanbul] PHP Warning:  mysqli::mysqli(): (HY000/2002): Connection refused in /home/fullplug/public_html/MultiServer/GetHostRequest.php on line 3
+[30-Aug-2018 12:05:23 Europe/Istanbul] PHP Warning:  mysqli::mysqli(): (HY000/2002): Connection refused in /home/fullplug/public_html/MultiServer/GetHostRequest.php on line 3
+[30-Aug-2018 12:05:41 Europe/Istanbul] PHP Warning:  mysqli::mysqli(): (HY000/2002): Connection refused in /home/fullplug/public_html/MultiServer/GetHostRequest.php on line 3
+[30-Aug-2018 12:07:37 Europe/Istanbul] PHP Warning:  mysqli::mysqli(): (HY000/2002): Connection refused in /home/fullplug/public_html/MultiServer/GetHostRequest.php on line 3
+[30-Aug-2018 12:07:38 Europe/Istanbul] PHP Warning:  mysqli::mysqli(): (HY000/2002): Connection refused in /home/fullplug/public_html/MultiServer/GetHostRequest.php on line 3
+[30-Aug-2018 12:07:39 Europe/Istanbul] PHP Warning:  mysqli::mysqli(): (HY000/2002): Connection refused in /home/fullplug/public_html/MultiServer/GetHostRequest.php on line 3
+[30-Aug-2018 12:07:43 Europe/Istanbul] PHP Warning:  mysqli::mysqli(): (HY000/2002): Connection refused in /home/fullplug/public_html/MultiServer/GetHostRequest.php on line 3
+[30-Aug-2018 12:07:44 Europe/Istanbul] PHP Warning:  mysqli::mysqli(): (HY000/2002): Connection refused in /home/fullplug/public_html/MultiServer/GetHostRequest.php on line 3
+[30-Aug-2018 12:08:01 Europe/Istanbul] PHP Warning:  mysqli::mysqli(): (HY000/2002): Connection refused in /home/fullplug/public_html/MultiServer/GetHostRequest.php on line 3
+[30-Aug-2018 12:08:02 Europe/Istanbul] PHP Warning:  mysqli::mysqli(): (HY000/2002): Connection refused in /home/fullplug/public_html/MultiServer/GetHostRequest.php on line 3
+[30-Aug-2018 12:08:03 Europe/Istanbul] PHP Warning:  mysqli::mysqli(): (HY000/2002): Connection refused in /home/fullplug/public_html/MultiServer/GetHostRequest.php on line 3
+[30-Aug-2018 12:08:15 Europe/Istanbul] PHP Warning:  mysqli::mysqli(): (HY000/2002): Connection refused in /home/fullplug/public_html/MultiServer/GetHostRequest.php on line 3
+[30-Aug-2018 12:08:16 Europe/Istanbul] PHP Warning:  mysqli::mysqli(): (HY000/2002): Connection refused in /home/fullplug/public_html/MultiServer/GetHostRequest.php on line 3
+[30-Aug-2018 12:08:42 Europe/Istanbul] PHP Warning:  mysqli::mysqli(): (HY000/2002): Connection refused in /home/fullplug/public_html/MultiServer/GetHostRequest.php on line 3
+[30-Aug-2018 12:08:43 Europe/Istanbul] PHP Warning:  mysqli::mysqli(): (HY000/2002): Connection refused in /home/fullplug/public_html/MultiServer/GetHostRequest.php on line 3
+[30-Aug-2018 12:09:20 Europe/Istanbul] PHP Warning:  mysqli::mysqli(): (HY000/2002): Connection refused in /home/fullplug/public_html/MultiServer/GetHostRequest.php on line 3
+[30-Aug-2018 12:10:00 Europe/Istanbul] PHP Warning:  mysqli::mysqli(): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/fullplug/public_html/MultiServer/GetHostRequest.php on line 3
+[30-Aug-2018 12:10:00 Europe/Istanbul] PHP Warning:  mysqli::mysqli(): (HY000/2002): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/fullplug/public_html/MultiServer/GetHostRequest.php on line 3
+[30-Aug-2018 12:10:01 Europe/Istanbul] PHP Warning:  mysqli::mysqli(): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/fullplug/public_html/MultiServer/GetHostRequest.php on line 3
+[30-Aug-2018 12:10:01 Europe/Istanbul] PHP Warning:  mysqli::mysqli(): (HY000/2002): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/fullplug/public_html/MultiServer/GetHostRequest.php on line 3
+[30-Aug-2018 12:10:02 Europe/Istanbul] PHP Warning:  mysqli::mysqli(): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/fullplug/public_html/MultiServer/GetHostRequest.php on line 3
+[30-Aug-2018 12:10:02 Europe/Istanbul] PHP Warning:  mysqli::mysqli(): (HY000/2002): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/fullplug/public_html/MultiServer/GetHostRequest.php on line 3
+[30-Aug-2018 12:10:03 Europe/Istanbul] PHP Warning:  mysqli::mysqli(): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/fullplug/public_html/MultiServer/GetHostRequest.php on line 3
+[30-Aug-2018 12:10:03 Europe/Istanbul] PHP Warning:  mysqli::mysqli(): (HY000/2002): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/fullplug/public_html/MultiServer/GetHostRequest.php on line 3
+[30-Aug-2018 12:10:04 Europe/Istanbul] PHP Warning:  mysqli::mysqli(): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/fullplug/public_html/MultiServer/GetHostRequest.php on line 3
+[30-Aug-2018 12:10:04 Europe/Istanbul] PHP Warning:  mysqli::mysqli(): (HY000/2002): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/fullplug/public_html/MultiServer/GetHostRequest.php on line 3
+[30-Aug-2018 12:10:06 Europe/Istanbul] PHP Warning:  mysqli::mysqli(): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/fullplug/public_html/MultiServer/GetHostRequest.php on line 3
+[30-Aug-2018 12:10:06 Europe/Istanbul] PHP Warning:  mysqli::mysqli(): (HY000/2002): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/fullplug/public_html/MultiServer/GetHostRequest.php on line 3
+[30-Aug-2018 12:10:14 Europe/Istanbul] PHP Warning:  mysqli::mysqli(): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/fullplug/public_html/MultiServer/GetHostRequest.php on line 3
+[30-Aug-2018 12:10:14 Europe/Istanbul] PHP Warning:  mysqli::mysqli(): (HY000/2002): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/fullplug/public_html/MultiServer/GetHostRequest.php on line 3
+[30-Aug-2018 12:12:06 Europe/Istanbul] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/fullplug/public_html/MultiServer/GetHostRequest.php on line 19
+[30-Aug-2018 12:14:13 Europe/Istanbul] PHP Parse error:  syntax error, unexpected '$con' (T_VARIABLE) in /home/fullplug/public_html/MultiServer/GetHostRequest.php on line 8
+[30-Aug-2018 12:14:14 Europe/Istanbul] PHP Parse error:  syntax error, unexpected '$con' (T_VARIABLE) in /home/fullplug/public_html/MultiServer/GetHostRequest.php on line 8
+[30-Aug-2018 12:14:17 Europe/Istanbul] PHP Parse error:  syntax error, unexpected '$con' (T_VARIABLE) in /home/fullplug/public_html/MultiServer/GetHostRequest.php on line 8
+[10-Sep-2018 14:30:21 Europe/Istanbul] PHP Parse error:  syntax error, unexpected '$sql' (T_VARIABLE) in /home/fullplug/public_html/MultiServer/PostCloudLocation.php on line 13
+[10-Sep-2018 14:30:32 Europe/Istanbul] PHP Parse error:  syntax error, unexpected '$sql' (T_VARIABLE) in /home/fullplug/public_html/MultiServer/PostCloudLocation.php on line 13
+[10-Sep-2018 14:30:46 Europe/Istanbul] PHP Parse error:  syntax error, unexpected '$sql' (T_VARIABLE) in /home/fullplug/public_html/MultiServer/PostCloudLocation.php on line 13
+[10-Sep-2018 14:35:48 Europe/Istanbul] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user 'fullplug_msadmin'@'localhost' (using password: YES) in /home/fullplug/public_html/MultiServer/PostCloudLocation.php on line 9
+[10-Sep-2018 14:35:48 Europe/Istanbul] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home/fullplug/public_html/MultiServer/PostCloudLocation.php on line 13
+[10-Sep-2018 14:38:44 Europe/Istanbul] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user 'fullplug_msadmin'@'localhost' (using password: YES) in /home/fullplug/public_html/MultiServer/PostCloudLocation.php on line 9
+[10-Sep-2018 14:38:44 Europe/Istanbul] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home/fullplug/public_html/MultiServer/PostCloudLocation.php on line 13
+[10-Sep-2018 14:38:54 Europe/Istanbul] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user 'fullplug_msadmin'@'localhost' (using password: YES) in /home/fullplug/public_html/MultiServer/PostCloudLocation.php on line 9
+[10-Sep-2018 14:38:54 Europe/Istanbul] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home/fullplug/public_html/MultiServer/PostCloudLocation.php on line 13
+[10-Sep-2018 14:39:52 Europe/Istanbul] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user 'fullplug_msadmin'@'localhost' (using password: YES) in /home/fullplug/public_html/MultiServer/PostCloudLocation.php on line 9
+[10-Sep-2018 14:39:52 Europe/Istanbul] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home/fullplug/public_html/MultiServer/PostCloudLocation.php on line 13
+[10-Sep-2018 15:06:50 Europe/Istanbul] PHP Parse error:  syntax error, unexpected '$fieldName' (T_VARIABLE) in /home/fullplug/public_html/MultiServer/PostCloudLocation.php on line 4
+[10-Sep-2018 15:07:04 Europe/Istanbul] PHP Parse error:  syntax error, unexpected '$fieldName' (T_VARIABLE) in /home/fullplug/public_html/MultiServer/PostCloudLocation.php on line 4
+[10-Sep-2018 15:08:05 Europe/Istanbul] PHP Parse error:  syntax error, unexpected '$fieldName' (T_VARIABLE) in /home/fullplug/public_html/MultiServer/PostCloudLocation.php on line 4
+[10-Sep-2018 15:34:02 Europe/Istanbul] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user 'fullplug_msadmin'@'localhost' (using password: YES) in /home/fullplug/public_html/MultiServer/PostCloudLocation.php on line 2
+[10-Sep-2018 15:55:37 Europe/Istanbul] PHP Parse error:  syntax error, unexpected '$Location_X' (T_VARIABLE) in /home/fullplug/public_html/MultiServer/PostCloudLocation.php on line 21
+[10-Sep-2018 15:55:40 Europe/Istanbul] PHP Parse error:  syntax error, unexpected '$Location_X' (T_VARIABLE) in /home/fullplug/public_html/MultiServer/PostCloudLocation.php on line 21
+[10-Sep-2018 20:55:39 Europe/Istanbul] PHP Warning:  mysqli::mysqli(): (HY000/2002): No such file or directory in /home/fullplug/public_html/MultiServer/GetHostRequest.php on line 8
+[11-Sep-2018 13:03:51 Europe/Istanbul] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user 'fullplug_msadmin'@'localhost' (using password: YES) in /home/fullplug/public_html/MultiServer/GetObjectInformation.php on line 7
+[11-Sep-2018 13:03:51 Europe/Istanbul] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home/fullplug/public_html/MultiServer/GetObjectInformation.php on line 10
+[11-Sep-2018 13:03:51 Europe/Istanbul] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/fullplug/public_html/MultiServer/GetObjectInformation.php on line 11
+[11-Sep-2018 13:04:26 Europe/Istanbul] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user 'fullplug_msadmin'@'localhost' (using password: YES) in /home/fullplug/public_html/MultiServer/GetObjectInformation.php on line 7
+[11-Sep-2018 13:04:26 Europe/Istanbul] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home/fullplug/public_html/MultiServer/GetObjectInformation.php on line 10
+[11-Sep-2018 13:04:26 Europe/Istanbul] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/fullplug/public_html/MultiServer/GetObjectInformation.php on line 11
+[11-Sep-2018 13:05:38 Europe/Istanbul] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user 'fullplug_msadmin'@'localhost' (using password: YES) in /home/fullplug/public_html/MultiServer/GetObjectInformation.php on line 7
+[11-Sep-2018 13:05:38 Europe/Istanbul] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home/fullplug/public_html/MultiServer/GetObjectInformation.php on line 10
+[11-Sep-2018 13:05:38 Europe/Istanbul] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/fullplug/public_html/MultiServer/GetObjectInformation.php on line 11
+[11-Sep-2018 13:05:40 Europe/Istanbul] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user 'fullplug_msadmin'@'localhost' (using password: YES) in /home/fullplug/public_html/MultiServer/GetObjectInformation.php on line 7
+[11-Sep-2018 13:05:40 Europe/Istanbul] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home/fullplug/public_html/MultiServer/GetObjectInformation.php on line 10
+[11-Sep-2018 13:05:40 Europe/Istanbul] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/fullplug/public_html/MultiServer/GetObjectInformation.php on line 11
+[11-Sep-2018 13:06:10 Europe/Istanbul] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user 'fullplug_msadmin'@'localhost' (using password: YES) in /home/fullplug/public_html/MultiServer/GetObjectInformation.php on line 7
+[11-Sep-2018 13:06:10 Europe/Istanbul] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home/fullplug/public_html/MultiServer/GetObjectInformation.php on line 10
+[11-Sep-2018 13:06:10 Europe/Istanbul] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/fullplug/public_html/MultiServer/GetObjectInformation.php on line 11
+[11-Sep-2018 13:06:12 Europe/Istanbul] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user 'fullplug_msadmin'@'localhost' (using password: YES) in /home/fullplug/public_html/MultiServer/GetObjectInformation.php on line 7
+[11-Sep-2018 13:06:12 Europe/Istanbul] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home/fullplug/public_html/MultiServer/GetObjectInformation.php on line 10
+[11-Sep-2018 13:06:12 Europe/Istanbul] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/fullplug/public_html/MultiServer/GetObjectInformation.php on line 11
+[11-Sep-2018 13:06:34 Europe/Istanbul] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user 'fullplug_msadmin'@'localhost' (using password: YES) in /home/fullplug/public_html/MultiServer/GetObjectInformation.php on line 7
+[11-Sep-2018 13:06:34 Europe/Istanbul] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home/fullplug/public_html/MultiServer/GetObjectInformation.php on line 10
+[11-Sep-2018 13:06:34 Europe/Istanbul] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/fullplug/public_html/MultiServer/GetObjectInformation.php on line 11
+[11-Sep-2018 13:06:59 Europe/Istanbul] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user 'fullplug_msadmin'@'localhost' (using password: YES) in /home/fullplug/public_html/MultiServer/GetObjectInformation.php on line 7
+[11-Sep-2018 13:06:59 Europe/Istanbul] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home/fullplug/public_html/MultiServer/GetObjectInformation.php on line 10
+[11-Sep-2018 13:06:59 Europe/Istanbul] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/fullplug/public_html/MultiServer/GetObjectInformation.php on line 11
+[11-Sep-2018 13:44:01 Europe/Istanbul] PHP Warning:  mysqli_stmt_close() expects parameter 1 to be mysqli_stmt, boolean given in /home/fullplug/public_html/MultiServer/GetObjectInformation.php on line 27
+[11-Sep-2018 13:57:38 Europe/Istanbul] PHP Warning:  mysqli_stmt_close() expects parameter 1 to be mysqli_stmt, boolean given in /home/fullplug/public_html/MultiServer/GetObjectInformation.php on line 49
+[11-Sep-2018 13:57:39 Europe/Istanbul] PHP Warning:  mysqli_stmt_close() expects parameter 1 to be mysqli_stmt, boolean given in /home/fullplug/public_html/MultiServer/GetObjectInformation.php on line 49
+[11-Sep-2018 13:57:42 Europe/Istanbul] PHP Warning:  mysqli_stmt_close() expects parameter 1 to be mysqli_stmt, boolean given in /home/fullplug/public_html/MultiServer/GetObjectInformation.php on line 49
+[11-Sep-2018 14:02:01 Europe/Istanbul] PHP Warning:  mysqli_stmt_close() expects parameter 1 to be mysqli_stmt, boolean given in /home/fullplug/public_html/MultiServer/GetObjectInformation.php on line 49
+[11-Sep-2018 14:02:02 Europe/Istanbul] PHP Warning:  mysqli_stmt_close() expects parameter 1 to be mysqli_stmt, boolean given in /home/fullplug/public_html/MultiServer/GetObjectInformation.php on line 49
+[11-Sep-2018 14:02:27 Europe/Istanbul] PHP Warning:  mysqli_stmt_close() expects parameter 1 to be mysqli_stmt, boolean given in /home/fullplug/public_html/MultiServer/GetObjectInformation.php on line 49
+[11-Sep-2018 14:02:29 Europe/Istanbul] PHP Warning:  mysqli_stmt_close() expects parameter 1 to be mysqli_stmt, boolean given in /home/fullplug/public_html/MultiServer/GetObjectInformation.php on line 49
+[11-Sep-2018 14:02:47 Europe/Istanbul] PHP Warning:  mysqli_stmt_close() expects parameter 1 to be mysqli_stmt, boolean given in /home/fullplug/public_html/MultiServer/GetObjectInformation.php on line 49
+[11-Sep-2018 15:23:25 Europe/Istanbul] PHP Warning:  mysqli_stmt_bind_result(): Number of bind variables doesn't match number of fields in prepared statement in /home/fullplug/public_html/MultiServer/GetObjectInformation.php on line 30
+[11-Sep-2018 15:24:26 Europe/Istanbul] PHP Warning:  mysqli_stmt_bind_result(): Number of bind variables doesn't match number of fields in prepared statement in /home/fullplug/public_html/MultiServer/GetObjectInformation.php on line 30
+[11-Sep-2018 15:24:28 Europe/Istanbul] PHP Warning:  mysqli_stmt_bind_result(): Number of bind variables doesn't match number of fields in prepared statement in /home/fullplug/public_html/MultiServer/GetObjectInformation.php on line 30
+[17-Sep-2018 18:43:10 Europe/Istanbul] PHP Warning:  mysqli_stmt_close() expects parameter 1 to be mysqli_stmt, boolean given in /home/fullplug/public_html/MultiServer/GetServersInformation.php on line 49
+[17-Sep-2018 20:04:41 Europe/Istanbul] PHP Warning:  mysqli_stmt_close() expects parameter 1 to be mysqli_stmt, boolean given in /home/fullplug/public_html/MultiServer/GetServersInformation.php on line 49
+[17-Sep-2018 20:04:43 Europe/Istanbul] PHP Warning:  mysqli_stmt_close() expects parameter 1 to be mysqli_stmt, boolean given in /home/fullplug/public_html/MultiServer/GetServersInformation.php on line 49
+[17-Sep-2018 20:05:12 Europe/Istanbul] PHP Warning:  mysqli_stmt_close() expects parameter 1 to be mysqli_stmt, boolean given in /home/fullplug/public_html/MultiServer/GetServersInformation.php on line 49
+[17-Sep-2018 20:05:58 Europe/Istanbul] PHP Warning:  mysqli_stmt_close() expects parameter 1 to be mysqli_stmt, boolean given in /home/fullplug/public_html/MultiServer/GetServersInformation.php on line 49
+[17-Sep-2018 20:06:11 Europe/Istanbul] PHP Warning:  mysqli_stmt_close() expects parameter 1 to be mysqli_stmt, boolean given in /home/fullplug/public_html/MultiServer/GetServersInformation.php on line 49
