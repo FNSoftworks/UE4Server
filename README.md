@@ -6,4 +6,4 @@
 
 <p align="center"> For more </p>
 
-Check the Wiki for <a href="index.html">plugin</a> usage examples and installation notes.
+Check the Wiki for <a href="https://github.com/FNSoftworks/UE4Server/wiki">UE4Server</a> usage examples and installation notes.
