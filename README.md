@@ -5,3 +5,5 @@
 <p align="center"> Unreal Engine 4 Server </p>
 
 <p align="center"> For more </p>
+
+Check the Wiki for <a href="index.html">plugin</a> usage examples and installation notes.
