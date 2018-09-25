@@ -8,6 +8,10 @@ Overview
 <p align="center"> Unreal Engine 4 Server </p>
 
 <h4>Key features:</h4>
-
+<ul>
+  <li>No C++ coding required, everything can be managed via blueprints</li>
+  <li>Tea</li>
+  <li>Milk</li>
+</ul>  
 
 Check the Wiki for <a href="https://github.com/FNSoftworks/UE4Server/wiki">UE4Server</a> usage examples and installation notes.
