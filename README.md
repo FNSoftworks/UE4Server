@@ -5,7 +5,7 @@ Overview
   <img src="https://github.com/FNSoftworks/UE4Server/blob/gh-pages/images/UE4Server_Github.png">
 </a></p>
 
-<p align="center"> Unreal Engine 4 Server </p>
+<h2 align="center"> Unreal Engine 4 Server </h2>
 
 <h4>Key features:</h4>
 <ul>
