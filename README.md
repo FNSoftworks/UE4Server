@@ -7,7 +7,7 @@ Overview
 
 <p align="center"> Unreal Engine 4 Server </p>
 
-Key features:
+<h2>Key features:</h2>
 
 
 Check the Wiki for <a href="https://github.com/FNSoftworks/UE4Server/wiki">UE4Server</a> usage examples and installation notes.
