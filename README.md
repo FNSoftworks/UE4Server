@@ -10,8 +10,6 @@ Overview
 <h4>Key features:</h4>
 <ul>
   <li>No C++ coding required, everything can be managed via blueprints</li>
-  <li>microsoft azure</li>
-  <li></li>
 </ul>  
 
 Check the Wiki for <a href="https://github.com/FNSoftworks/UE4Server/wiki">UE4Server</a> usage examples and installation notes.
