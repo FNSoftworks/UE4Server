@@ -16,7 +16,7 @@ Overview
 
 Check the Wiki for <a href="https://github.com/FNSoftworks/UE4Server/wiki">UE4Server</a> usage examples and installation notes.
 
-Compatible Cloud Services: **Microsoft Azure, Amazon EC2**
+Compatible Cloud Services: **Microsoft Azure, Amazon EC2**<p></p>
 Current Version: **1.1 R 24** (UE 4.20)
 
 Legal info
