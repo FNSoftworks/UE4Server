@@ -10,13 +10,14 @@ Overview
 <h4>Key features:</h4>
 <ul>
   <li>No C++ coding required, everything can be managed via blueprints</li>
-  <li>Tea</li>
-  <li>Milk</li>
+  <li>microsoft azure</li>
+  <li></li>
 </ul>  
 
 Check the Wiki for <a href="https://github.com/FNSoftworks/UE4Server/wiki">UE4Server</a> usage examples and installation notes.
 
-Current version: **1.1 R 24** (UE 4.20)
+Compatible Cloud Services: **Microsoft Azure, Amazon EC2**
+Current Version: **1.1 R 24** (UE 4.20)
 
 Legal info
 ----------
