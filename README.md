@@ -20,6 +20,6 @@ Current Version: **1.1 R 24** (UE 4.20)
 Legal info
 ----------
 
-Unreal® is a trademark or registered trademark of Epic Games, Inc. in the United States of America and elsewhere.
+Free Utilities for Unreal® Engine
 
-FNSoft® Works, Copyright 2018 – 2019, Epic Games, Inc. All rights reserved.
+FNSoft® Works, Copyright 2018 – 2019, All rights reserved.
